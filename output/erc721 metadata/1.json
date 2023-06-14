@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple Pink Yellow\" as Background",
+  "image": "ipfs://__CID__/097edef757e0cd7ca25baefe4f21e212351af6b3.png",
+  "name": "Catx 1",
+  "dna": "097edef757e0cd7ca25baefe4f21e212351af6b3",
+  "uid": "1",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Pink Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Conical Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}
