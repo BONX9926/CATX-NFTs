@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Red Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/85c2c58194916a6b5f85d1b946c622ffbf64d8ad.png",
+  "name": "Catx 2149",
+  "dna": "85c2c58194916a6b5f85d1b946c622ffbf64d8ad",
+  "uid": "2149",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food02"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shiny Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bling Chain with Dollar Sign"
+    }
+  ]
+}

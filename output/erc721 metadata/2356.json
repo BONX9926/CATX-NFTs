@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/ecd979803e24067783b4950803c71b1e5a32fade.png",
+  "name": "Catx 2356",
+  "dna": "ecd979803e24067783b4950803c71b1e5a32fade",
+  "uid": "2356",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Funky Striped Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Woman's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bling Chain with Dollar Sign"
+    }
+  ]
+}

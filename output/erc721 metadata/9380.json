@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/399a06f1eb5bcf3d7dcc08445d5351648977827e.png",
+  "name": "Catx 9380",
+  "dna": "399a06f1eb5bcf3d7dcc08445d5351648977827e",
+  "uid": "9380",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food01"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glowing  Neon Ski Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace gradient"
+    }
+  ]
+}

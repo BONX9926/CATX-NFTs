@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple Pink Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/1a85e13626d566180a0a847f1ecfbdd04abe94ff.png",
+  "name": "Catx 8859",
+  "dna": "1a85e13626d566180a0a847f1ecfbdd04abe94ff",
+  "uid": "8859",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Pink Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Funky Striped Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Pearl Necklace"
+    }
+  ]
+}

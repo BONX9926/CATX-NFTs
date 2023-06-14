@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/a38f9098234f2082ebb87471a87ec52d05b4dc52.png",
+  "name": "Catx 2451",
+  "dna": "a38f9098234f2082ebb87471a87ec52d05b4dc52",
+  "uid": "2451",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Funky Striped Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Handdrawn Organic Baby Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Chian Necklace"
+    }
+  ]
+}

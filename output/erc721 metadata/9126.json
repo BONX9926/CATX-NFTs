@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/65e24415a020dbcf12defa2b36b393781f4d6556.png",
+  "name": "Catx 9126",
+  "dna": "65e24415a020dbcf12defa2b36b393781f4d6556",
+  "uid": "9126",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food05"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace"
+    }
+  ]
+}

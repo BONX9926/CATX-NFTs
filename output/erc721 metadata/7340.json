@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/7284982f3eede1a123c0604003f4f4081a3f5b7c.png",
+  "name": "Catx 7340",
+  "dna": "7284982f3eede1a123c0604003f4f4081a3f5b7c",
+  "uid": "7340",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Pet Bowl Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bead Necklace"
+    }
+  ]
+}

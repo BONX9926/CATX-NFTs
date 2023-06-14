@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/22fe0e28342d5dc8d34ea5af66fd0500524c18f2.png",
+  "name": "Catx 2703",
+  "dna": "22fe0e28342d5dc8d34ea5af66fd0500524c18f2",
+  "uid": "2703",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food02"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Flower Necklace"
+    }
+  ]
+}

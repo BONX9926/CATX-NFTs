@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple Pink Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/2a6e61e31f033c82c10b21fd022c6a1ed748ea70.png",
+  "name": "Catx 3815",
+  "dna": "2a6e61e31f033c82c10b21fd022c6a1ed748ea70",
+  "uid": "3815",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Pink Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Pet Bowl Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace with Green Pendants"
+    }
+  ]
+}

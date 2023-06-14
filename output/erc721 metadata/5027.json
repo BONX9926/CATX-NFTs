@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Red Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/9547bab57120ee19da2bb688ffd227a4784e020c.png",
+  "name": "Catx 5027",
+  "dna": "9547bab57120ee19da2bb688ffd227a4784e020c",
+  "uid": "5027",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Fish Bone Cat Food"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magic Black Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Chian Necklace"
+    }
+  ]
+}

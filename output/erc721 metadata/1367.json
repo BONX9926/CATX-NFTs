@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/45e518d2985b036ae3315591ed2f61ea9966d400.png",
+  "name": "Catx 1367",
+  "dna": "45e518d2985b036ae3315591ed2f61ea9966d400",
+  "uid": "1367",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Fish Bone Cat Food"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glowing  Neon Ski Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace gradient"
+    }
+  ]
+}

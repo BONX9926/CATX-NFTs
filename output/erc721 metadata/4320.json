@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/8e777cc6b688de56fff89c8d5bc9b377347b59ab.png",
+  "name": "Catx 4320",
+  "dna": "8e777cc6b688de56fff89c8d5bc9b377347b59ab",
+  "uid": "4320",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bead Necklace"
+    }
+  ]
+}

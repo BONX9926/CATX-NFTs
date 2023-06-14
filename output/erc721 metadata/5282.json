@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/bfd4e214685c162bf4182bff2900291bbadef65a.png",
+  "name": "Catx 5282",
+  "dna": "bfd4e214685c162bf4182bff2900291bbadef65a",
+  "uid": "5282",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Pet Bowl Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bling Chain with Dollar Sign"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/958923793983114ec5e5b205420f586313723ed3.png",
+  "name": "Catx 4460",
+  "dna": "958923793983114ec5e5b205420f586313723ed3",
+  "uid": "4460",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shutter Shade Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Amethyst Necklace Realistic Style"
+    }
+  ]
+}

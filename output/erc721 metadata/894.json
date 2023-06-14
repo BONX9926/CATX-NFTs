@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/3141bf47fd888f34cfb7026cd0a38e148e45f4fc.png",
+  "name": "Catx 894",
+  "dna": "3141bf47fd888f34cfb7026cd0a38e148e45f4fc",
+  "uid": "894",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food04"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cycle Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

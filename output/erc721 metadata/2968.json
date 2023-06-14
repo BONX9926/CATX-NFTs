@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Red Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/187e35a2be365e026aa5ce97ff296531f236adc0.png",
+  "name": "Catx 2968",
+  "dna": "187e35a2be365e026aa5ce97ff296531f236adc0",
+  "uid": "2968",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cycle Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

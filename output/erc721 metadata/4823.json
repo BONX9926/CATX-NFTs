@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/39faad06103c1846c43ba3d08d2ad50d09204a70.png",
+  "name": "Catx 4823",
+  "dna": "39faad06103c1846c43ba3d08d2ad50d09204a70",
+  "uid": "4823",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Pet Bowl Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cycle Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace"
+    }
+  ]
+}

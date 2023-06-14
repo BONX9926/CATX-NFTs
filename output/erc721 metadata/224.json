@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/aa6d9f6399fe958ce9cf0cdee9c0cbf45696e9c5.png",
+  "name": "Catx 224",
+  "dna": "aa6d9f6399fe958ce9cf0cdee9c0cbf45696e9c5",
+  "uid": "224",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Flower Necklace"
+    }
+  ]
+}

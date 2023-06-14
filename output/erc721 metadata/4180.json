@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/972f26ca7e2ad08ccacff580737608681aa89302.png",
+  "name": "Catx 4180",
+  "dna": "972f26ca7e2ad08ccacff580737608681aa89302",
+  "uid": "4180",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cycle Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

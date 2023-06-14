@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/6bd44cf06ae46cd202e051c1c1c6bfbb58569e32.png",
+  "name": "Catx 4845",
+  "dna": "6bd44cf06ae46cd202e051c1c1c6bfbb58569e32",
+  "uid": "4845",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food01"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Amethyst Necklace Realistic Style"
+    }
+  ]
+}

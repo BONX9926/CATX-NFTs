@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/d37fb8e90036efdaf05be81b3a995160c7ce3624.png",
+  "name": "Catx 4061",
+  "dna": "d37fb8e90036efdaf05be81b3a995160c7ce3624",
+  "uid": "4061",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Handdrawn Organic Baby Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Chian Necklace"
+    }
+  ]
+}

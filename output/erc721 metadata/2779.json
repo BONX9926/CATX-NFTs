@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Red Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/4a5da47e19d2fb6484b089a58eb264ccd206a1fe.png",
+  "name": "Catx 2779",
+  "dna": "4a5da47e19d2fb6484b089a58eb264ccd206a1fe",
+  "uid": "2779",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food03"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shutter Shade Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Conical Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bead Necklace"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/1e17dc712625fcb66a497cfde1afc5336e45179f.png",
+  "name": "Catx 5845",
+  "dna": "1e17dc712625fcb66a497cfde1afc5336e45179f",
+  "uid": "5845",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Fish Bone Cat Food"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

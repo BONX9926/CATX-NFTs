@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/2ba63e1bc7a8e95933a7567a4e76f868d58a51c0.png",
+  "name": "Catx 3362",
+  "dna": "2ba63e1bc7a8e95933a7567a4e76f868d58a51c0",
+  "uid": "3362",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magic Black Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace with Green Pendants"
+    }
+  ]
+}

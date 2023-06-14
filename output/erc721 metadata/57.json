@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/674264c3af003aa261dcc39edb380f2a92d6ff05.png",
+  "name": "Catx 57",
+  "dna": "674264c3af003aa261dcc39edb380f2a92d6ff05",
+  "uid": "57",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food02"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cycle Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

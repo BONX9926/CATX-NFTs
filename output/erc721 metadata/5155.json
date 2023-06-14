@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple Pink Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/b12fb17918b04624151cd9e7dae4b1ffbc62d3bd.png",
+  "name": "Catx 5155",
+  "dna": "b12fb17918b04624151cd9e7dae4b1ffbc62d3bd",
+  "uid": "5155",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Pink Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Witch's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Amethyst Necklace Realistic Style"
+    }
+  ]
+}

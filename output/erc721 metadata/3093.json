@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/6ee30263d338bdcf84208dafc3ba42ef1a038e37.png",
+  "name": "Catx 3093",
+  "dna": "6ee30263d338bdcf84208dafc3ba42ef1a038e37",
+  "uid": "3093",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food04"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glowing  Neon Ski Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace"
+    }
+  ]
+}

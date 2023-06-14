@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/e962666fb1bc7dcf74523d7dcfec88df5a4415ee.png",
+  "name": "Catx 7908",
+  "dna": "e962666fb1bc7dcf74523d7dcfec88df5a4415ee",
+  "uid": "7908",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Funky Striped Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Handdrawn Organic Baby Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace"
+    }
+  ]
+}

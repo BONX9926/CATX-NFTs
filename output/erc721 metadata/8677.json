@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/93f98bdfcff4994ef7934c871f492b19efe8b52f.png",
+  "name": "Catx 8677",
+  "dna": "93f98bdfcff4994ef7934c871f492b19efe8b52f",
+  "uid": "8677",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Fish Bone Cat Food"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bling Chain with Dollar Sign"
+    }
+  ]
+}

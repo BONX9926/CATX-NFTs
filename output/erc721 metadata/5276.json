@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/89851f8431b14454023d6c9ec16a864bb19fd7ea.png",
+  "name": "Catx 5276",
+  "dna": "89851f8431b14454023d6c9ec16a864bb19fd7ea",
+  "uid": "5276",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Pet Bowl Gold"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shutter Shade Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Pink Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Golden Jewelry Necklace"
+    }
+  ]
+}

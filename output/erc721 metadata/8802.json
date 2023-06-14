@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/6417d024734e1105e938fe73e380fac0febcd7f4.png",
+  "name": "Catx 8802",
+  "dna": "6417d024734e1105e938fe73e380fac0febcd7f4",
+  "uid": "8802",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food03"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magic Black Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace"
+    }
+  ]
+}

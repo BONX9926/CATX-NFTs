@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/1baea23e4d3d8f6caa2f4c974946cae30c95f028.png",
+  "name": "Catx 9463",
+  "dna": "1baea23e4d3d8f6caa2f4c974946cae30c95f028",
+  "uid": "9463",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food04"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Pink Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Flower Necklace"
+    }
+  ]
+}

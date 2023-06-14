@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/e731885a4c99faf48812098bf123727ba1224cae.png",
+  "name": "Catx 4257",
+  "dna": "e731885a4c99faf48812098bf123727ba1224cae",
+  "uid": "4257",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food01"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Funky Striped Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Captain Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Bead Necklace"
+    }
+  ]
+}

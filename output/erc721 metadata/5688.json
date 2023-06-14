@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Green\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/625163145b50c5367b2c8721b4215080dfe5991b.png",
+  "name": "Catx 5688",
+  "dna": "625163145b50c5367b2c8721b4215080dfe5991b",
+  "uid": "5688",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food03"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shutter Shade Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Woman's Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace with Green Pendants"
+    }
+  ]
+}

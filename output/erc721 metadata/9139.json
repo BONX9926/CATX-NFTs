@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Orange\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/2de7f98bcdbc398162744ab9e36d20f7fd95c277.png",
+  "name": "Catx 9139",
+  "dna": "2de7f98bcdbc398162744ab9e36d20f7fd95c277",
+  "uid": "9139",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scold"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shutter Shade Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magic Black Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Golden Jewelry Necklace"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Pink Blue\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/612f0b037172406d357fb25cf0117699b8577c1d.png",
+  "name": "Catx 7255",
+  "dna": "612f0b037172406d357fb25cf0117699b8577c1d",
+  "uid": "7255",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Magic Black Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace with Green Pendants"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Purple Pink Yellow\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/6a31e176baa2ff3fe5bd7ac7f0032396e9ac2570.png",
+  "name": "Catx 4697",
+  "dna": "6a31e176baa2ff3fe5bd7ac7f0032396e9ac2570",
+  "uid": "4697",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Pink Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food07"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shiny Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Handdrawn Organic Baby Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace gradient"
+    }
+  ]
+}

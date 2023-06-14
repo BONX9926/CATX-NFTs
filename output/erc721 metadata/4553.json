@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue Pink Red\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/be2105fce077e6bee84a2d301c156b6cb7ea4bae.png",
+  "name": "Catx 4553",
+  "dna": "be2105fce077e6bee84a2d301c156b6cb7ea4bae",
+  "uid": "4553",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Pink Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food01"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Heart Red Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Straw Hat with Ribbon"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Jewelry Gold Necklace"
+    }
+  ]
+}

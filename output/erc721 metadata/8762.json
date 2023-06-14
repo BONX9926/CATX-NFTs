@@ -1,0 +1,34 @@
+{
+  "description": "This is a token with \"Blue Pink Red\" as Background",
+  "image": "https://raw.githubusercontent.com/BONX9926/CATX-NFTs/main/output/images/1042e56c8c11df55b27cbd22acec731bb8fb332d.png",
+  "name": "Catx 8762",
+  "dna": "1042e56c8c11df55b27cbd22acec731bb8fb332d",
+  "uid": "8762",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Pink Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Food",
+      "value": "Cat Food06"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace with Green Pendants"
+    }
+  ]
+}
